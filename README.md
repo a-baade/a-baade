@@ -1,7 +1,7 @@
 ### Welcome 👋
 <p>
 <a href="https://linkedin.com/in/andreas-baade" target="blank"><img align="center" target="_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ellaoui" height="30" width="40" /></a>
-
+<p>
 <a href="mailto:andreasbaade15@gmail.com" target="blank"><img align="center" target="_blank" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="andreas" height="30" width="40" /></a>
 </p>
 - Currently enrolled in Kristiania University College's Bachelors Program in IT with a specialization in Frontend and Mobile Development.
