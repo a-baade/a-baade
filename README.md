@@ -11,9 +11,9 @@
 </div>
 
 --------------------------------------------------------------------------
-- Compleated Kristiania University College's Bachelors Program in IT with a specialization in Frontend and Mobile Development.
+- Completed Kristiania University College's Bachelors Program in IT with a specialization in Frontend and Mobile Development.
 - Currently searching for work while improving my coding abilities
-- Expirence in React and JavaScript
+- Most expirence in React and JavaScript/Typescript
 - <a href = "https://andreas-baade.netlify.app/"> My portfolio website </a>
 
 --------------------------------------------------------------------------
