@@ -6,6 +6,8 @@
  </a>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-baade&label=Profile%20views&color=0e75b6&style=flat" alt="a-baade" /> </p>
+
 --------------------------------------------------------------------------
 - Currently enrolled in Kristiania University College's Bachelors Program in IT with a specialization in Frontend and Mobile Development.
 - Currently learning **C# & Design Patterns in C# and .NET**
