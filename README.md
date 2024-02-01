@@ -5,8 +5,9 @@
 <a href="mailto:andreasbaade15@gmail.com" target="blank"><img align="center" target="_blank" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="andreas" height="30" width="40" />
  </a>
 </div>
-
+<div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-baade&label=Profile%20views&color=0e75b6&style=flat" alt="a-baade" /> </p>
+</div>
 
 --------------------------------------------------------------------------
 - Currently enrolled in Kristiania University College's Bachelors Program in IT with a specialization in Frontend and Mobile Development.
