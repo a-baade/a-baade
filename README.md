@@ -11,8 +11,8 @@
 </div>
 
 --------------------------------------------------------------------------
-- Currently enrolled in Kristiania University College's Bachelors Program in IT with a specialization in Frontend and Mobile Development.
-- Currently learning **C# & Design Patterns in C# and .NET**
+- Compleated Kristiania University College's Bachelors Program in IT with a specialization in Frontend and Mobile Development.
+- Currently searching for work while improving my coding abilities
 - Expirence in React and JavaScript
 - <a href = "https://andreas-baade.netlify.app/"> My portfolio website </a>
 
